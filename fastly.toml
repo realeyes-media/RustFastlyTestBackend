@@ -1,0 +1,9 @@
+# This file describes a Fastly Compute@Edge package. To learn more visit:
+# https://developer.fastly.com/reference/fastly-toml/
+
+authors = ["fastly@realeyes.com"]
+description = "Apply performance, security and usability upgrades to static bucket services such as Google Cloud Storage or AWS S3, including redirects, headers, and a 404 page."
+language = "rust"
+manifest_version = 1
+name = "test-backend"
+service_id = "00I1FKlqvE3BH35mIQRlo6"
